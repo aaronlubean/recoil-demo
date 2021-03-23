@@ -1,0 +1,54 @@
+body {
+  margin-top: 10px;
+}
+
+a { 
+  color: darkslategray;
+  font-size: 18px;
+  text-decoration: none;
+  padding: 9px;
+  margin-bottom: 5px;
+  border: 1px solid darkslategray;
+  border-bottom: none;
+  border-radius: 5px 5px 0 0;
+  background-color: lightgray;
+}
+
+a.active {
+  color: steelblue;
+  border-color: steelblue;
+  background-color: powderblue;
+}
+
+#links {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+h2 {
+  font-family: Optima, Cambria, Garamond, Times;
+  font-size: 36px;
+}
+
+h3 {
+  font-family: Optima, Cambria, Garamond, Times;
+  font-size: 30px;
+}
+
+h4 {
+  display: inline-block;
+  padding: 3px;
+  border: 2px solid darkblue;
+  border-radius: 15px;
+  min-width: 50px;
+  margin: 0 5px 10px 0;
+  font-family: Optima, Cambria, Garamond, Times;
+  font-size: 26px;
+  text-align: center;
+  color: darkblue;
+}
+
+button {
+  font-size: 28px;
+  margin-right: 5px;
+}
