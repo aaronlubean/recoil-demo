@@ -1,3 +1,9 @@
+Code examples used in a presentation on RecoilJS.
+
+Slides: https://slides.com/alubean/recoil-demo
+
+-----------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Then, it was stripped bare.
